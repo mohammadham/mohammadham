@@ -23,7 +23,6 @@
 - 💬 You can find me sharing insightful posts on Twitter about the latest trends and best practices in the tech industry. 
 - ⚡ Additionally, I've taken free sessions on career guidance and conducted mock interviews to help aspiring developers kickstart their careers.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Community**
