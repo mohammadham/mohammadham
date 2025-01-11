@@ -2,7 +2,7 @@
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
   <h2>Hi there, I'm Mohammad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-  <p>MERN Stack Developer | Machine Learning Engineer | TypeScript | Next.js | PostgreSQL/SQL | Android Development | Game Development | UNITY </p>
+  <p>MERN Stack Developer | Machine Learning Engineer | TypeScript | Next.js | PostgreSQL/mySQL | Android Development | Game Development | UNITY </p>
   <p>🌍 Birjand, Iran</p>
 </div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
