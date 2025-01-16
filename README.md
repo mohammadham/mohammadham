@@ -41,9 +41,6 @@
 
 
 # 📊 GitHub Stats:
-
-![](https://komarev.com/ghpvc/?username=mohammadham&abbreviated=true) <br/>
-<a href="https://github.com/Hemu21">
 ![](https://github-readme-stats.vercel.app/api?username=mohammadham&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadham&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadham&theme=blue-green&hide_border=true)
@@ -60,9 +57,12 @@
   <img src="https://img.shields.io/github/followers/mohammadham?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/mohammadham?style=social" alt="GitHub Stars"/>
 </div>
-### 🔝 Top Contributed Repo
-
+<br/>
+<div style="text-align: center;">
+  <h3>🔝 Top Contributed Repo</h3>
+  
 ![](https://github-contributor-stats.vercel.app/api?username=mohammadham&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
@@ -78,17 +78,4 @@
 <h1 align="center"> Fork 🍴 to create yours :star2: to support. Happy Coding 😉 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!--
-**mohammadham/mohammadham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
